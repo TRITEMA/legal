@@ -2,10 +2,7 @@
 
 ## SWITZERLAND Local
 
- - Name, business name and contact phone.
- - In case the registration in under a company name company identification number is also needed.
- - Passport or ID copy. In case registration process is performed under a company name, company registration certificate shall be provided along with passport or ID copy
- - Current address in Swtizerland
+For geographical numbers, the location of the end user (place of residence/business) must be within the relevant geographic zone. When requested by Tritema, Customer shall send the location of the end user (place of residence/business) within 24 hours of receiving the request, otherwise the number may be disconnected.
 
 
 ![Area codes in Switzerland](https://i.ibb.co/R4VtMVC/suisse.png)
