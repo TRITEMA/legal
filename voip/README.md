@@ -5,7 +5,7 @@
  List of Swiss providers is available [for search](https://www.eofcom.admin.ch/eofcom/public/searchCatalog.do) at OFCOM
 
 
-## country law restrictions
+## Country regulations/compliance/specificities
 
 - [France](france.md)
 - [Germany](germany.md)
